@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>icicibank Releases Nexus Repository</name>
-	      <url>http://100.24.255.22/:9000/repository/icicibank-release/</url>
+	      <url>http://100.24.255.22:9000/repository/icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
